@@ -9,5 +9,7 @@
 Localization.lua
 Database.lua
 Alert.lua
+Settings.lua
+ConfigWidgets.lua
 Config.lua
 Core.lua

@@ -38,6 +38,7 @@ Initial development version of CombatState.
 - Added separate preview buttons for enter-combat and leave-combat messages.
 - Added configurable text colors and alpha for enter-combat and leave-combat alerts.
 - Added reset buttons beside the alert color swatches to restore default alert colors.
+- Added dedicated modules for settings logic and reusable configuration widgets.
 
 ### Changed
 
@@ -59,6 +60,8 @@ Initial development version of CombatState.
 - Moved alert display logic into `Alert.lua`.
 - Moved saved variable defaults and reset logic into `Database.lua`.
 - Moved translated strings into `Localization.lua`.
+- Moved setting update logic into `Settings.lua`.
+- Moved reusable configuration controls into `ConfigWidgets.lua`.
 
 ### Notes
 

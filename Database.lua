@@ -42,7 +42,6 @@ function CombatState:EnsureDB()
             end
         end
     end
-
 end
 
 function CombatState:ResetDB()
