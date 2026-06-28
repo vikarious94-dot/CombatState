@@ -1,5 +1,5 @@
 # Changelog
-## Unreleased
+## [1.0.3](https://github.com/vikarious94-dot/CombatCue/tree/v1.0.3) - 2026-06-28
 
 ### Changed
 - Moved the configuration UI into the native WoW Retail AddOns settings panel.
